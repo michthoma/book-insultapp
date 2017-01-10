@@ -8,6 +8,7 @@
 <title>Insult Generator</title>
 </head>
 <body>
+<p>TEST</p>
 <%
 out.println(new InsultGenerator().generateInsult());
 %>
